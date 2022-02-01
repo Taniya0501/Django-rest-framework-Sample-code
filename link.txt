@@ -1,0 +1,15 @@
+https://docs.djangoproject.com/en/3.2/releases/3.2/#customizing-type-of-auto-created-primary-keys
+Devesh Gupta11:03
+https://docs.djangoproject.com/en/3.0/topics/email/#sending-alternative-content-types
+https://django-rest-registration.readthedocs.io/en/latest/_modules/rest_registration/api/views/login.html#login
+Hitarth Shah11:44
+https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c
+Meet Sanghvi12:01
+https://medium.com/@angela.amarapala/difference-between-arrays-and-json-objects-fa1c8598f9f1
+Devesh Gupta12:25
+https://reactrouter.com/docs/en/v6/getting-started/concepts
+
+Hitarth Shah22:30
+https://builtwith.com/runalloy.com
+Devesh Gupta23:27
+https://reactrouter.com/docs/en/v6/getting-started/concepts#main-concepts
